@@ -2,7 +2,7 @@ Note to use this weather app you must first create a free account on openweather
 • This can be done here: http://openweathermap.org.
 After receiving an api key, change the var mykey = config.MY_KEY to var mykey = "Paste your api key here".
 
-This was a class project which had to meet the following criteria:
+This was a term project which had to meet the following criteria:
 • Students are encouraged to build a creative weather information application that is responsive for both various computer sizes and mobile.
 • There must be the option to select between Fahrenheit or Celsius, and users should be able to search for cities around the world.
 
